@@ -241,7 +241,7 @@ A demo video showcasing:
 * Zoho → Local sync
 * Background task execution
 
-📎 **Video Link:** *(Attach Google Drive / Loom link here)*
+📎 **Video Link:** *(https://drive.google.com/file/d/1_g4henDxbyQOoIRZiRSEZNODc0t3I41V/view?usp=drive_link)*
 
 ---
 
